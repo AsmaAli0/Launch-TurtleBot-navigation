@@ -12,7 +12,10 @@ $ bash ./install_ros_kinetic.sh
 ```
 <img width="580" alt="1 1 1" src="https://github.com/user-attachments/assets/8016a245-5534-4cfa-83c7-a2024967b4ce">
 <img width="929" alt="1 3" src="https://github.com/user-attachments/assets/c8b657af-6881-4578-b529-ed6d425d90f2">
+
 ![Screenshot 2024-08-02 231854](https://github.com/user-attachments/assets/89a41621-a737-46fc-a8f9-0427a9084c91)
+
+
 ![shm](https://github.com/user-attachments/assets/5ba6456a-0449-4fb5-a54a-b42e11563073)
 
  ##  Install Dependent ROS Packages
